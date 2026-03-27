@@ -14,7 +14,7 @@ I created a new folder for my custom scripts. While having this folder selected 
 I had no need to add anything else, but you might need modify more security options.
 
 #### Triggers tab
-Add a trigger here (I added one for when the computer is unlocked) and made it run for only my own personal user.
+* Add a trigger here (I added one for when the computer is unlocked) and made it run for only my own personal user.
 
 #### Actions tab
-Add an action here for starting an application and add the path to the LoginLogger executable
+* Add an action here for starting an application and add the path to the LoginLogger executable
